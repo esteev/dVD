@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Preloader.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Constants.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CounterChecker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SignIn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\newDinoMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PathRenderer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AboutScript.cs" Line="38" Column="69" />
+      <File FileName="Assets\Script\HomeCanvasController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\LeaderBoard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GPGSIds.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FaderOut.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShowPath.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\newDodoMovement.cs" Line="46" Column="92" />
+      <File FileName="Assets\Script\AdManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\tutorialScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OneTwoThree.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SelectionController.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\RewardedAd.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Preloader.cs" Line="22" Column="23" NotebookId="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\UIHandlerGameMenu.cs" Line="110" Column="6" NotebookId="1" />
+      <File FileName="Assets\Scripts\starter.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Tutorial.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Script\rotator.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
